@@ -1,5 +1,5 @@
 package gomodtest
 
 func Version() string {
-	return "v2"
+	return "v2.0.1"
 }
